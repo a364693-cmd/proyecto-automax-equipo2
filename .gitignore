@@ -1,0 +1,4 @@
+node_modules/
+data/mensajes.txt
+.DS_Store
+Thumbs.db

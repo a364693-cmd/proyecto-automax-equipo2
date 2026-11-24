@@ -1,0 +1,11 @@
+{
+  "name": "automax-web",
+  "version": "1.0.0",
+  "description": "Sitio web de renta de automóviles Automax - Segundo Parcial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Equipo 2 Automax - a364693, a374234 - UACH",
+  "license": "MIT"
+}
